@@ -8,7 +8,7 @@
     * [Мастерская Яндекс Практикум: Исследование вакансий для Аналиттиков данных и Системных аналитиков на основе данных портала HH.ru](https://github.com/morenkoav/YandexPracticum_Projects/tree/main/Мастерская%20ЯП%20-%20Исследование%20вакансий%20аналитиков)
 
 * [Проекты с курса ВШЭ Data Science](https://github.com/morenkoav/HSE-homeworks), в т.ч.:
-   * []()
+   * [Определение вероятности покупки товара на основе данных о клиенте и его покупательской истории с помощью методов машинного обучения]()
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=morenkoav)](https://github.com/morenkoav/github-readme-stats)
