@@ -7,7 +7,8 @@
     * [Статистический анализ данных сервиса аренды самокатов GoFast](https://github.com/morenkoav/YandexPracticum_Projects/tree/main/Статанализ%20данных%20сервиса%20аренды%20самокатов)
     * [Мастерская Яндекс Практикум: Исследование вакансий для Аналиттиков данных и Системных аналитиков на основе данных портала HH.ru](https://github.com/morenkoav/YandexPracticum_Projects/tree/main/Мастерская%20ЯП%20-%20Исследование%20вакансий%20аналитиков)
 
-* [Проекты с курса ВШЭ Data Science](https://github.com/morenkoav/HSE-homeworks)
+* [Проекты с курса ВШЭ Data Science](https://github.com/morenkoav/HSE-homeworks), в т.ч.:
+   * []()
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=morenkoav)](https://github.com/morenkoav/github-readme-stats)
